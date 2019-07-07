@@ -1,0 +1,6 @@
+This file is to log the prototyping of the FrameNET Mainframe.
+
+So Far we have 3 compartments.
+1. Is for System Functions, Like interfacing the U/I. Ex. Reset Function Outputs, silence, copying the chest, etc.
+2. Communal Compartment, for interfacing cards with main system functions.
+3. Cards compartment. This mainframe is
