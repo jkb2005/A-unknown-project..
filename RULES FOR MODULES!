@@ -2,13 +2,17 @@
 
 Each modules size is
 13 Blocks long.
-4 blocks wide.
+No width limit
 5 blocks high.
 Note, the length does not include the face block.
 Module Face Dimensions.
-4 blocks wide
+No width limit
 5 blocks high
 
 MAKE SURE THAT ALL OF YOUR COMMAND BLOCKS USE ~ ~ ~ FOR COORDINATES!!!
 Reason Why:
 We want the mainframe of these panels to be easy to copy and paste.
+
+Blocks that are going to be redstone source blocks, that arent there
+must be set to glass. Exceptions for blocks that need to pass a
+redstone signal.
