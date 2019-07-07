@@ -8,3 +8,7 @@ Note, the length does not include the face block.
 Module Face Dimensions.
 4 blocks wide
 5 blocks high
+
+MAKE SURE THAT ALL OF YOUR COMMAND BLOCKS USE ~ ~ ~ FOR COORDINATES!!!
+Reason Why:
+We want the mainframe of these panels to be easy to copy and paste.
